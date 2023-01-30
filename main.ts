@@ -18,3 +18,5 @@ PB = 0
 Ties = 0
 Rounds = 0
 OLED.writeStringNewLine("Shall We Play A Game")
+basic.pause(2000)
+ShowScoreboard()
